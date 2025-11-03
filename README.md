@@ -4,7 +4,7 @@
 
 ---
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=800&size=39&duration=1200&pause=400&color=D4A574&center=true&vCenter=true&width=850&lines=It's+In+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=800&size=39&duration=1200&pause=400&color=D4A574&center=true&vCenter=true&width=850&lines=Work+In+Progress.." />
 </h2>
 
 
