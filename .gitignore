@@ -1,0 +1,45 @@
+# Java build
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+/.idea/
+/target/
+/out/
+/build/
+
+# Eclipse
+.settings/
+*.launch
+
+# IntelliJ
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven / Gradle
+/.mvn/
+/.gradle/
+/build/
+/dist/
+/bin/
+
+# IDE specific
+*.swp
+*~
